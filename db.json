@@ -1,0 +1,34 @@
+{
+  "ice-creams": [
+    {
+      "name": "Golden Almond Delight",
+      "image": "/ice-1.png",
+      "price": 25.0
+    },
+    {
+      "name": "Velvet Chocolate Tempest",
+      "image": "/ice-2.png",
+      "price": 20.0
+    },
+    {
+      "name": "Vanilla Élysée",
+      "image": "/ice-3.png",
+      "price": 22.5
+    },
+    {
+      "name": "Tropical Mango Elixir",
+      "image": "/ice-4.png",
+      "price": 28.0
+    },
+    {
+      "name": "Caramel Royale Swirl",
+      "image": "/ice-1.png",
+      "price": 32.0
+    },
+    {
+      "name": "Emerald Pistachio Bliss",
+      "image": "/ice-3.png",
+      "price": 34.0
+    }
+  ]
+}
